@@ -1,5 +1,12 @@
 [
     {
+        "title": "【置顶】酷安整理贴说明Ⅱ",
+        "description": "项目已过时，OS2无脑选「融合版V2」，OS1选「融合版」。\n说“过时”是因为OS1和2已经各有一个特别完善、出众的版本了，按照「内部版」和「公开版」筛选找包的方法已经过时了，不过「教程」和「其他」还有点用（主要还是存档留念一下吧）。\n不过在用MIUI的、或者想仿iOS17的，这种老系统的，那还得自己筛选了找。",
+        "link": "",
+        "time": "2025-07-22",
+        "tags": []
+    },
+    {
         "title": "【置顶】酷安整理贴说明",
         "description": "因为改过的控制中心太多了，时间久了版本有点乱，就想搞一篇能筛选的整理贴。\n本来打算在酷安开这篇整理贴的，但是酷安的图文编辑次数有限，而且关键是删文章会扣经验，就把这篇文章托管在第三方了。\n用 GPT 简单改了个前端，能用就行。\n\n本人在酷安目前主要是做粮厂的 iOS 高仿，力争做全站最高仿的控制中心；偶尔也会做些小设计、写些小代码。\n★特殊说明：\n· 内部版指以酷安@异界情人的底包二改而来的版本，日用基本没bug，但由于底包付费不便外传，我会附上相应版本的文件名称方便在群文件内查找；\n· 公开版指以国外大佬 EGLife 的底包二改而来的版本，会有小bug，但经过酷安其他大佬以及我的再优化，在其余功能方面已经逐渐超越异界，至于下载链接我会直接放在每篇酷安动态的文末。\n\n筛选在右上角，查找你想要的版本时，可以先以内部版或公开版筛选，然后看标题下的 Tag（你要的小米系统版本与仿的 iOS 版本）。\n链接是可以点的，然后可以跳转到酷安。\n总之别看正标题了，我确实写的太乱了[捂脸]。",
         "link": "",
@@ -19,7 +26,79 @@
         "link": "https://www.coolapk.com/feed/60370049?shareKey=MzVhMTFmODdiM2FmNjgwZTY0OTY~&shareUid=22430622&shareFrom=com.coolapk.market_13.4.1",
         "time": "2024-11-7",
         "tags": [
-            "教程",
+            "教程"
+        ]
+    },
+    {
+        "title": "修改小米控制中心背景模糊程度的方法",
+        "description": "【第③次头条】组件修改教程。",
+        "link": "https://www.coolapk.com/feed/66220981?s=YWQ2NDBlYTgxNTY0MzllZzY4N2Y3YjVkega1540",
+        "time": "2025-7-22",
+        "tags": [
+            "教程"
+        ]
+    },
+    {
+        "title": "高级材质「混合模式」浅探——integer值作用研究",
+        "description": "组件修改教程。",
+        "link": "https://www.coolapk.com/feed/66220698?s=ZDlmMGMwNmExNTY0MzllZzY4N2Y3YjVkega1540",
+        "time": "2025-7-22",
+        "tags": [
+            "教程"
+        ]
+    },
+    {
+        "title": "融合版V2更新！全网最仿iOS26的控制中心！iOS18同步更新！",
+        "description": "OS2将iOS26的图标内置进了安装包，并兼容了高级材质。序号2️⃣。",
+        "link": "https://www.coolapk.com/feed/66198764?s=ZTdlY2NkOWYxNTY0MzllZzY4N2Y3YjVkega1540",
+        "time": "2025-7-21",
+        "tags": [
+            "公开版",
+            "HyperOS2",
+            "iOS18",
+            "iOS26"
+        ]
+    },
+    {
+        "title": "官改控制中心修改按钮布局顺序指南",
+        "description": "【第②次头条】组件修改教程。",
+        "link": "https://www.coolapk.com/feed/65928692?s=ZDRmZjc4OTgxNTY0MzllZzY4N2Y3YjVkega1540",
+        "time": "2025-7-7",
+        "tags": [
+            "教程"
+        ]
+    },
+    {
+        "title": "「融合版」iOS18/26 高仿控制中心",
+        "description": "系列改名融合版：一次发布融合了OS1和OS2、也融合了iOS18和iOS26。序号1️⃣。",
+        "link": "https://www.coolapk.com/feed/65916496?s=MzFhM2FiZmMxNTY0MzllZzY4N2Y3YjVkega1540",
+        "time": "2025-7-6",
+        "tags": [
+            "公开版",
+            "HyperOS",
+            "HyperOS2",
+            "iOS18",
+            "iOS26"
+        ]
+    },
+    {
+        "title": "HyperOS1&2 高仿控制中心整理贴",
+        "description": "以整理为主，挑选了过去OS1和OS2最好的版本各一个（巧了，两个之前都叫完美版），各自做了一定的修复与优化，然后公开。后续版本全部基于这个框架展开魔改。编个序号0️⃣，公开版什么时候不标序号了就是新底包。",
+        "link": "https://www.coolapk.com/feed/65738986?s=NTkzN2VhMzYxNTY0MzllZzY4N2Y3YjVkega1540",
+        "time": "2025-6-27",
+        "tags": [
+            "公开版",
+            "HyperOS",
+            "HyperOS2",
+            "iOS18"
+        ]
+    },
+    {
+        "title": "MX 播放器专业版（最新1.93.3）个人优化版分享",
+        "description": "改了一辈子控制中心无人知，汉化了一次播放器直接干成个人热度最高的一条帖子。小米玩机真的没落了......",
+        "link": "https://www.coolapk.com/feed/65557763?s=NTUyMjdkZmUxNTY0MzllZzY4N2Y2Y2Zmega1540",
+        "time": "2025-6-18",
+        "tags": [
             "其他"
         ]
     },
@@ -39,8 +118,7 @@
         "link": "https://coolapk.com/feed/65119078?s=MWNjYmM2OWYxNTY0MzllZzY4NDVjY2IwegA15.0.3&shareUid=22430622&shareFrom=com.coolapk.market_15.0.3",
         "time": "2025-5-31",
         "tags": [
-            "教程",
-            "其他"
+            "教程"
         ]
     },
     {
